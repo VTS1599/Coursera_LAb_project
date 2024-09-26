@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Coursera_LAb_project/static/css/main.c7bcea04.css",
+    "main.js": "/Coursera_LAb_project/static/js/main.08ab6c12.js",
+    "index.html": "/Coursera_LAb_project/index.html",
+    "main.c7bcea04.css.map": "/Coursera_LAb_project/static/css/main.c7bcea04.css.map",
+    "main.08ab6c12.js.map": "/Coursera_LAb_project/static/js/main.08ab6c12.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7bcea04.css",
+    "static/js/main.08ab6c12.js"
+  ]
+}
